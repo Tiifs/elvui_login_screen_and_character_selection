@@ -74,3 +74,8 @@ Remove these folders from your interface folder:
 
 ##Extra Credits:
 Chat Bubble glues by Translit
+
+Disclaimer:
+This is NOT my work, I'm simply re-uploading the files after they are no longer available on the Tukui website.
+I have NO INTENTION of updating them at any point.
+All the credit goes to the original creators.
