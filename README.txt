@@ -51,9 +51,25 @@ Failure to extract these folders into your Interface folder will result in this 
 
 *You will also need to reboot the game to load the new files*
 
-## Download
+## Uninstallation
 
-Find the newest version at https://www.tukui.org/addons.php?id=202
+Remove these folders from your interface folder:
+	* Buttons
+	* CharacterCreate
+	* CHATFRAME
+	* COMMON
+	* DialogFrame
+	* FrameGeneral
+	* friendsframe
+	* Glues
+	* HELPFRAME
+	* Interface
+	* MacroFrame
+	* optionsframe
+	* PaperDollInfoFrame
+	* STORE
+	* Tooltips
+	* Vehicles
 
 
 ##Extra Credits:
